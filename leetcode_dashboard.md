@@ -1,0 +1,3 @@
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![https://www.linkedin.com/kozhukovv](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kozhukovv?theme=nord&font=Inter&ext=heatmap)
